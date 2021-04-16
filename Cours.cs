@@ -6,10 +6,10 @@ public class Cours
 	{
 		public int numeroDuCours = 0;
 		public int code = 0;
-		public String titre;
+		public string titre;
 
 		public int NumeroDuCours { get; set; }
 		public int Code { get; set; }
-		public String Titre { get; set; }
+		public string Titre { get; set; }
 	}
 }
